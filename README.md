@@ -146,11 +146,11 @@ The project uses the following datasets:
 ---
 
 ## Contributors
-- **Your Name** - Developer
+- **Piyush Patil** - Developer
 
 Feel free to contribute to this project by submitting issues or pull requests!
 
 ---
 
-Thank you for exploring this project! If you found it interesting, don’t forget to give it a star ⭐ on [GitHub](https://github.com/yourusername/Movie-Recommendation-System).
+Thank you for exploring this project! If you found it interesting, don’t forget to give it a star ⭐ on [GitHub](https://github.com/patil-piyush/Movie-Recommendation-System).
 
